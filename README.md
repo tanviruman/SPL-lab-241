@@ -20,4 +20,9 @@ Feel free to explore and engage with my writings!
 
 You can connect with me on various platforms:
 
-- [Codeforces](https://codeforces.com/profile/tanvi
+- [Codeforces](https://codeforces.com/profile/tanviruman)
+- [LinkedIn](https://www.linkedin.com/in/tanvirumaan)
+- [LeetCode](https://leetcode.com/tanviruman)
+- [HackerRank](https://www.hackerrank.com/tttttttt)
+
+Feel free to reach out, connect, or follow me on these platforms!
