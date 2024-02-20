@@ -1,7 +1,7 @@
 # SPL-lab-241
-![GitHub repo size](https://img.shields.io/github/repo-size/tanviruman/SPL-lab-Tarek-Sir)
-![GitHub contributors](https://img.shields.io/github/contributors/tanviruman/SPL-lab-Tarek-Sir)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tanviruman/SPL-lab-Tarek-Sir)
+![GitHub repo size](https://img.shields.io/github/repo-size/tanviruman/SPL-lab-241)
+![GitHub contributors](https://img.shields.io/github/contributors/tanviruman/SPL-lab-241)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tanviruman/SPL-lab-241)
 
 
 ## Authors
