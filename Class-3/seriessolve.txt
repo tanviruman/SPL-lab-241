@@ -1,0 +1,53 @@
+Upperbound as input:
+Parallel Series:
+    int starting = ?;
+    int upperBound = n;
+    int incr = ?;
+
+    int sum = 0;
+
+    for(int i = starting; i<=upperBound; i = i + incr)
+    {
+        sum = sum + i;
+    }
+
+Geometric Series:
+    int starting = ?;
+    int upperBound = n;
+    int incr = ?;
+
+    int sum = 0;
+
+    for(int i = starting; i<=upperBound; i = i * incr)
+    {
+        sum = sum + i;
+    }
+
+
+
+
+Upto Nth Term:
+Parallel Series:
+    int currentValue = ?;
+    int incr = ?;
+
+    int sum = 0;
+
+    for(int i = 1; i<=n; i = i + 1)
+    {
+        sum = sum + currentValue;
+			currentValue += incr;
+    }
+
+
+Geometrics Series:
+    int currentValue = ?;
+    int incr = ?;
+
+    int sum = 0;
+
+    for(int i = 1; i<=n; i = i + 1)
+    {
+        sum = sum + currentValue;
+			currentValue *= incr;
+    }
